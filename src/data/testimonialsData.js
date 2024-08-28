@@ -12,13 +12,13 @@ export const testimonialsData = [
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
+    review: 'I have been working out for 2 years now and I have never been this fit and healthy! Thank you Fitclub!',
     name: 'JOHN KEVIN',
     status: 'COACH'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
+    review:' Losing weight has never been this easy! I am so happy with the results and I am so grateful to Fitclub!',
     name: 'FRANKLIN',
     status: "CUSTOMER"
   }
